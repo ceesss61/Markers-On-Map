@@ -39,5 +39,8 @@
       "type": "MIT",
       "url": "https://opensource.org/licenses/MIT"
     }
-  ]
+  ],
+  "dependencies": {
+    "markers-on-map": "^1.4.0"
+  }
 }
